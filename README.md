@@ -1,6 +1,16 @@
 ## Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NAYAK-Shivam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAYAK-Shivam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+# 💫 About Me:
+<br><br>I am god<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NAYAK-Shivam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NAYAK-Shivam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAK-Shivam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NAYAK-Shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **NAYAK-Shivam/NAYAK-Shivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
