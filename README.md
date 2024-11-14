@@ -29,5 +29,5 @@ Aspiring DevOps and Software Engineer | MERN Stack Developer | Data Engineer | P
 ![DevOps](https://img.shields.io/badge/-DevOps-00599C?logo=azurepipelines&logoColor=white&style=flat)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAK-Shivam&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAK-Shivam&show_icons=true&theme=synthwave)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAK-Shivam&layout=compact&theme=merko)
