@@ -7,6 +7,7 @@ Aspiring DevOps and Software Engineer | MERN Stack Developer | Data Engineer | P
 ### 🏆 Achievements
 - **NSTSE 2020**: All India Rank 823 | State Rank 69 (Class 11 PCM)
 - **SOF IMO 2019-20**: International Rank 3707
+  
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
@@ -27,3 +28,6 @@ Aspiring DevOps and Software Engineer | MERN Stack Developer | Data Engineer | P
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![DevOps](https://img.shields.io/badge/-DevOps-00599C?logo=azurepipelines&logoColor=white&style=flat)
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
