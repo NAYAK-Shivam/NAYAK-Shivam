@@ -8,7 +8,6 @@ Aspiring DevOps and Software Engineer | MERN Stack Developer | Data Engineer | P
 - **NSTSE 2020**: All India Rank 823 | State Rank 69 (Class 11 PCM)
 - **SOF IMO 2019-20**: International Rank 3707
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
