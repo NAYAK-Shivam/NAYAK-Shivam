@@ -30,4 +30,4 @@ Aspiring DevOps and Software Engineer | MERN Stack Developer | Data Engineer | P
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAK-Shivam&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAK-Shivam&layout=compact&theme=gruvbox&exclude_repo=Bharat-Safari)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAK-Shivam&layout=compact&theme=gruvbox)
